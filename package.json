@@ -1,5 +1,5 @@
 {
-  "name": "ansi-html",
+  "name": "k-ansi-html",
   "version": "0.0.7",
   "description": "An elegant lib that converts the chalked (ANSI) text to HTML.",
   "main": "index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Tjatse/ansi-html.git"
+    "url": "git://github.com/lrivedieu/ansi-html.git"
   },
   "keywords": [
     "ansi",
